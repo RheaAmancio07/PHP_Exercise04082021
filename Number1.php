@@ -36,7 +36,7 @@
     <div>
         <p>1. Write a program to loop over the given JSON data. Display the values via loops or recursion.</p>
         <center>
-        <h1>JSON Data</h1>
+        <h1>JSON Data Files</h1>
         <table>
             <tr>
                 <td><b>NAME</b></td>
